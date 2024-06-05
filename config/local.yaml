@@ -1,0 +1,6 @@
+env: "local" # dev, prod
+storage_path: "mongodb+srv://gotul:gotul@gofinal.e7pap0d.mongodb.net/?retryWrites=true&w=majority&appName=GOFINAL"
+token_ttl: 1h
+grpc:
+  port: 44044
+  timeout: 10h
